@@ -1,6 +1,5 @@
 # Hi there! 👋
-- I’m @BuggingHere
-- I’m interested in deveoping interesting things.
+- I’m BuggingHere, I’m interested in deveoping fun and useful things.
 - I’m trying to learn:
 
     [![My Skills](https://skillicons.dev/icons?i=js,java&theme=dark)](https://skillicons.dev)
@@ -9,4 +8,6 @@
 <!---
 BuggingHere/BuggingHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
+
+- Roadmap 🔜™️
 
