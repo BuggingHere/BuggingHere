@@ -2,7 +2,7 @@
 - 👀 I’m interested in deveoping interesting things.
 - 🌱 I’m currently learning
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin)](https://skillicons.dev)
+   - [![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin)](https://skillicons.dev)
 - 📫 How to reach me [@BuggingHere](https://twitter.com/BuggingHere), [BuggingHere#5686](https://discord.com/users/1003239581480665119)
 
 <!---
