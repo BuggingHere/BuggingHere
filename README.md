@@ -2,7 +2,7 @@
 - I’m BuggingHere, I’m interested in deveoping fun and useful things.
 - I’m trying to learn:
 
-    [![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 - 📫 How to reach me [@BuggingHere](https://twitter.com/BuggingHere), [BuggingHere#5686](https://discord.com/users/1003239581480665119)
 
 <!---
